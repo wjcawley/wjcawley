@@ -1,4 +1,6 @@
-<p align="justify"> Hi, I am Liam Cawley, an aspiring Data Scientist with experience in Data Analytics, Data Science, AI and ML, and Consulting. </p>
+[![Social banner for wjcawley](https://github.com/wjcawley/wjcawley/blob/a2bd4228fd4d8fe7ef3fb7772a32b4addf0a313e/github-header-banner.png)](https://www.linkedin.com/in/wjcawley/)
+
+<p align="justify"> Aspiring Data Scientist with experience in Data Analytics, Data Science, AI and ML, and Consulting. </p>
 
 <details>   <summary><b> 👨 &nbsp;My&nbsp;Background </b></summary> 
 <br>
