@@ -1,8 +1,6 @@
-<p align="justify"> Hi, I'm Liam Cawley. I am an aspiring Data Scientist with experience in Data Analytics, Data Science, AI and ML, and Consulting. </p>
+<p align="justify"> Hi, I am Liam Cawley, an aspiring Data Scientist with experience in Data Analytics, Data Science, AI and ML, and Consulting. </p>
 
 <details>   <summary><b> 👨 &nbsp;My&nbsp;Background </b></summary> 
-
-
 <br>
 <p align="justify">I am a MSA candidate with an undergrad background in Business Administration with an IT concentration. I am passionate about the bridge between technology and business.</p>
 
